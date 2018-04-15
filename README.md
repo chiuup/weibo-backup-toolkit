@@ -1,4 +1,7 @@
 # weibo-backup-toolkit
+## Prerequisites
+* Python 3
+* [requests](https://pypi.python.org/pypi/requests) library
 
 ## Dumper
 ### Run
